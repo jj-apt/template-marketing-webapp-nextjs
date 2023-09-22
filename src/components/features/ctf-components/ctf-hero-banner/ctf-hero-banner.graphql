@@ -4,7 +4,7 @@ fragment HeroBannerFields on ComponentHeroBanner {
     id
   }
   # Tutorial: uncomment the line below to add the Greeting field to the query
-  # greeting
+  greeting
   headline
   bodyText {
     json
